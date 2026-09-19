@@ -28,6 +28,6 @@ Our agent monitors the production URL (Vercel) and leaps into action upon detect
    playwright install
 3. Rename .env.example to .env and add your keys.
 4. Run the agent:
-    ---bash
+    ```bash
     python main_agent.py
 
